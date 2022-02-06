@@ -1,9 +1,10 @@
-# Automated-Email-News
-send automated news
+# Automated Emails
+Send Automated Daily Email News
 
-# Example Application - Complimentr
+## Description
 
-This application is meant to be used with the [Introduction to APIs course](https://github.com/craigsdennis/intro-to-apis-course).
+An app that reads excel with user names, email addresses, and interests and sends an email to each user
+with news feeds about the user's interest once a day.
 
 ## Local Installation
 
@@ -13,11 +14,14 @@ This application is meant to be used with the [Introduction to APIs course](http
 * `source ./.venv/bin/activate`
 * `pip install -r requirements.txt`
 
-### Running the application
+## Running the application
 
 * py -3 email_file.py
 
-#### Update requirements
 
+
+## Developer Notes
+
+### Update requirements
 * pip freeze > requirements.txt
 * refresh
