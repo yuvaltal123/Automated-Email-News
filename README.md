@@ -16,12 +16,12 @@ with news feeds about his interest once a day.
 
 ## Running the application
 
-* py -3 email_file.py
+* `py -3 email_file.py`
 
 
 
 ## Developer Notes
 
 ### Update requirements
-* pip freeze > requirements.txt
-* refresh
+* `pip freeze > requirements.txt`
+* `refresh`
