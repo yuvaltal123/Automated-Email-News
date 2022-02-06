@@ -4,7 +4,7 @@ Send Automated Daily Email News
 ## Description
 
 An app that reads excel with user names, email addresses, and interests and sends an email to each user
-with news feeds about the user's interest once a day.
+with news feeds about his interest once a day.
 
 ## Local Installation
 
